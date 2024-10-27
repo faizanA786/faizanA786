@@ -5,6 +5,7 @@ First year Computer Science student at Queen Mary University of London, looking 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📸 [Instagram](https://www.instagram.com/faixzan2006/)
 - 🎮 [itch.io](https://outlaw-f.itch.io/)
+- 📃 [Minecraft Datapack Portfolio](https://outlawf-datapacks.netlify.app/)
 
 ## Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/outlawF16?theme=dark&font=Aleo)
