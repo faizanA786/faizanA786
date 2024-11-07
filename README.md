@@ -2,7 +2,7 @@
 First year Computer Science student at Queen Mary University of London, looking for spring weeks/internships in tech firms.
 
 ## Links
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/faizan17/)
 - 📸 [Instagram](https://www.instagram.com/faixzan2006/)
 - 🎮 [itch.io](https://outlaw-f.itch.io/)
 
