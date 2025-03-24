@@ -9,3 +9,7 @@ First year Computer Science student at Queen Mary University of London, looking 
 
 ## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanA786&layout=compact&theme=dark)
+
+## Organizations
+- 👩‍💻 [PerusingPebbles](https://github.com/PerusingPebbles)
+- 🕹 [Ciwa Studios](https://github.com/Ciwa-Studios)
