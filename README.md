@@ -1,11 +1,12 @@
-## Personal Profile
-First year Computer Science student at Queen Mary University of London, looking for internships/placement years in tech firms, particularly in software engineering.
+# 👨‍💻 About Me
+Computer Science student at Queen Mary University of London. Building tools, games and small-scale software with a focus on simplicity and function.
 
-## Links
-- 🏠 [Personal Website](https://faizan.uk/)
+## 🚀 Recent Projects
+- [**Job Starter**](https://jobstarter.uk): Automated job board for entry-level retail/hospitality roles in London. 
+- **[More on my personal site](https://faizan.uk/)**
+
+## 📎 Links
+- 🏠 [faizan.uk](https://faizan.uk/) - Portfolio & blog
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizan17/)
-- 🎮 [itch.io](https://outlaw-f.itch.io/)
-- 💡 [Leetcode](https://leetcode.com/u/outlawf16/)
-
-## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanA786&layout=compact&theme=dark)
+- 🎮 [itch.io](https://outlaw-f.itch.io/) - Game projects
+- 💡 [Leetcode](https://leetcode.com/u/outlawf16/) - Solving daily
