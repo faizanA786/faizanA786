@@ -3,7 +3,7 @@ Computer Science student at Queen Mary University of London. Building tools, gam
 
 ## 🚀 Recent Projects
 - [**Job Starter**](https://jobstarter.uk): Automated job board for entry-level retail/hospitality roles in London. 
-- **[More on my personal site](https://faizan.uk/)**
+- **[More on my personal site](https://faizan.uk/projects.html)**
 
 ## 📎 Links
 - 🏠 [faizan.uk](https://faizan.uk/) - Portfolio & blog
